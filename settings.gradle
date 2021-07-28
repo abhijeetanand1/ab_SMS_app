@@ -1,0 +1,2 @@
+rootProject.name = "ab_SMS_app"
+include ':app'

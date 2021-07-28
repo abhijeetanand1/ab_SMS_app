@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ab_SMS_app</string>
+    <string name="sender">Sender:</string>
+    <string name="message">Message:</string>
+</resources>
